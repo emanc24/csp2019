@@ -1,0 +1,35 @@
+#top{
+  align-content: center;
+  
+
+
+}
+#Green{
+  border: 50px solid #21ff00;
+  color: #21ff00;
+  background-color: #21ff00;
+  height: 5in
+}
+#Blue{
+  border: 50px solid #2575fc;
+  color: #2575fc;
+  background-color: #2575fc
+}
+#Pink{
+  border: 50px solid #ff00a5;
+  color: #ff00a5;
+  background-color: #ff00a5
+}
+#Purple{
+  border: 50px solid #6a11cb;
+  color: #6a11cb;
+  background-color: #6a11cb
+}
+#Darkblue{
+  border: 50px solid #03254e;
+  color: #03254e;
+  background-color: #03254e
+}
+table{
+  color: white;
+}

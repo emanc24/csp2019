@@ -1,0 +1,47 @@
+h1{
+  border: 10px double green;
+  border-width: 5mm;
+  text-align: center;
+  font-size: 75px;
+  color: darkred
+} 
+h2{
+  color: rgba(255, 0, 0, 0.836);
+  font-family: cursive;
+}
+}
+a[href="portfolio.html"]{
+  color: red;
+  border: dotted 5px blueviolet 
+ 
+}
+
+  
+  img{ display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 199px
+}
+
+h2{display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 199px;
+
+  width: 25px
+}
+div{
+  text-align: center
+}
+
+#top{
+  align-content: center;
+  
+
+
+}
+firsdiv{
+  width: 125px
+}
+body{ background: url(https://images.squarespace-cdn.com/content/v1/5af5a60536099b397b0c797c/1540473625780-4ZGW7699W66W6VHUG2ZA/ke17ZwdGBToddI8pDm48kJHRQoSi24saZOw1zkoJhDIUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcGVABOfiI0kzl075erP3ecjwQYTJ2cb6gxaOqMFww-fLfTevWIXPbM2wPNRoHzALm/Header+page_draft.jpg?format=1500w)
+}
